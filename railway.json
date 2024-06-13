@@ -1,0 +1,10 @@
+{
+    "build": {
+      "builder": "python",
+      "buildCommand": "pip install -r requirements.txt"
+    },
+    "start": {
+      "startCommand": "python telebot.py"
+    }
+  }
+  
